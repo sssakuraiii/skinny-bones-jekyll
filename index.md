@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "枸杞保温杯"
 ---
 
 <div class="tiles">
