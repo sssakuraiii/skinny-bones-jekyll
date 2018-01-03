@@ -71,12 +71,15 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: #0066ff;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
+            &:hover {
+                color: #0066ff;
+                back-ground: $white; 
 		}
 	}
 }
@@ -105,7 +108,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: #595959;
 			text-transform: uppercase;
 		}
 	}
