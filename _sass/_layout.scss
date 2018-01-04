@@ -71,15 +71,15 @@
 			}
 			&:after {
 				width: 0;
-				background: #0066ff;
+				background: $SteelBlue;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
 			}
-            &:hover {
-                color: #0066ff;
-                back-ground: $white; 
+			&:hover {
+			    color: $SteelBlue;
+			}
 		}
 	}
 }
@@ -108,7 +108,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: #595959;
+			color: $black;
 			text-transform: uppercase;
 		}
 	}
