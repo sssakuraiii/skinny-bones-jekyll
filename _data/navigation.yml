@@ -3,19 +3,19 @@
 - title: 可视化作品集
   url: /infovis/
   excerpt: “利用本学期在可视化课堂上学到的东西进行的实操"
-  image: 1.png 
+  image: tableau.jpg
   
-- title: 期中作品
+- title: 网页设计作品集
   url: /portfolio/
   excerpt: “利用本学期在网页设计课堂上学到的东西小组进行的实操"
-  image: 2.png 
+  image: html.jpg
   
 - title: 网页设计学习心得
   url: /posts/rwd/
   excerpt: “在本学期网页设计课上的个人学习笔记"
-  image: 3.png 
+  image: html_note.jpg
   
 - title: 信息可视化学习心得
   url: /posts/infovis/
   excerpt: “在本学期信息可视化课上的个人学习笔记"
-  image: 4.png 
+  image: css3.jpg
