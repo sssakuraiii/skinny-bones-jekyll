@@ -7,6 +7,8 @@ image:
   teaser: tab.jpg
   feature: tab.jpg
 ---
+###Tableau白皮书中相关图表作用及中文术语
+---
 
 | 中文术语 | 图表作用 |
 |----------|----------|
